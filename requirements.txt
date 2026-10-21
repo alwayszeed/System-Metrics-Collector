@@ -1,0 +1,2 @@
+psutil>=5.9
+docker>=7.0
